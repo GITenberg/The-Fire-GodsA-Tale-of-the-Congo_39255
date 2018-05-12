@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '39884'
     url: http://www.gutenberg.org/2009/agents/39884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39255#The-Fire-GodsA-Tale-of-the-Congo
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
 identifiers:
