@@ -1,0 +1,36 @@
+_repo: The-Fire-GodsA-Tale-of-the-Congo_39255
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Soper, George
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '9930'
+    url: http://www.gutenberg.org/2009/agents/9930
+covers:
+- cover_type: archival
+  image_path: 39255-h/images/img-cover2.jpg
+creator:
+  author:
+    agent_name: Gilson, Charles
+    alias: Gilson, Charles James Louis
+    birthdate: 1878
+    deathdate: 1943
+    gutenberg_agent_id: '39884'
+    url: http://www.gutenberg.org/2009/agents/39884
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Explorers -- Juvenile fiction'
+- !lcsh 'Africa -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: 'The Fire-Gods: A Tale of the Congo'
+url: http://www.gutenberg.org/ebooks/39255
